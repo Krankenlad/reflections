@@ -1,0 +1,8 @@
+Lesson 1 q: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+A: If you know the previous version works, then you know that one of the changes has to be the reason for the bug
+Therefore, looking only at the changes it makes it more likely to spot typos or syntax errors
+
+q: how could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+a: you can see where you started from, you can see any errors that may have been introduced, you can easily 'roll back' on changes that weren't intended
