@@ -1,0 +1,3 @@
+How might using version control make you more confident to make changes that could break something?
+
+YOu know that you can always revert back to a working state, so there's no risk with adding and changing stuff

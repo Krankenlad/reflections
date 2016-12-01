@@ -1,0 +1,3 @@
+How can you use the commands git log and git diff the view the history of files?
+
+Use git log to see the commit you want to check, then git diff to compare to previous commit for changes that occured
